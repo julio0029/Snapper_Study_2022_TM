@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 
 '''-------------------------------------------------------------------------------
-Copyright© 2021 Jules Devaux & Alice Harford. All Rights Reserved
+Copyright© 2021 Jules Devaux & Tristan McArley. All Rights Reserved
 Open Source script under Apache License 2.0
 ----------------------------------------------------------------------------------
 '''
